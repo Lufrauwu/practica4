@@ -1,0 +1,7 @@
+﻿  jijiji.cpp
+D:\lufra\Documents\codigo visual\jijiji\jijiji.cpp(50,9): warning C4477: 'scanf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 1 tiene el tipo 'std::string *'
+D:\lufra\Documents\codigo visual\jijiji\jijiji.cpp(54,9): warning C4477: 'scanf' : la cadena de formato '%ld' requiere un argumento de tipo 'long *', pero el argumento variádico 1 tiene el tipo 'double *'
+D:\lufra\Documents\codigo visual\jijiji\jijiji.cpp(59,10): warning C4477: 'printf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 1 tiene el tipo 'std::string'
+D:\lufra\Documents\codigo visual\jijiji\jijiji.cpp(60,10): warning C4477: 'printf' : la cadena de formato '%c' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'char *'
+D:\lufra\Documents\codigo visual\jijiji\jijiji.cpp(61,10): warning C4477: 'printf' : la cadena de formato '%ld' requiere un argumento de tipo 'long', pero el argumento variádico 1 tiene el tipo 'double'
+  jijiji.vcxproj -> D:\lufra\Documents\codigo visual\jijiji\Debug\jijiji.exe
